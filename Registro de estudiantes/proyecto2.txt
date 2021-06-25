@@ -1,0 +1,7 @@
+Crear un registro de notas de estudiantes
+
+- El profesor podra elegir cuantos estudiantes habran y nº de notas. (Finalizado)
+
+- Al final del lapso el profesor podra saber el promedio de cada estudiante, cuantos alumnos aprobaron y reprobaron. (Finalizado)
+
+Tiempo de desarrollo: 9 horas
